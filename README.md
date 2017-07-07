@@ -1,4 +1,16 @@
-[![Build Status](https://travis-ci.org/grails/grails-core.svg?branch=2.4.x)](https://travis-ci.org/grails/grails-core)
+# Grails 2.4.2 Snapshot
+
+---
+
+This is a snapshot of Grails 2.4.2, forked for reference only. This repository is **not** maintained by the Grails team, nor anyone else, and there will never be any updates to the code.
+
+For the latest version of Grails, and all active versions of Grails, see [the Grails repository](https://github.com/grails/grails-core).
+
+---
+
+## Original README:
+
+---
 
 Grails
 ===
